@@ -153,8 +153,8 @@ Decisões e trade-offs detalhados em [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.
 **Gabriel Borges**
 Construindo sistemas de IA para o contexto B2B brasileiro.
 
-- LinkedIn: [linkedin.com/in/gabrielborgesai](https://linkedin.com/in/gabrielborgesai)
-- GitHub: [@gabrielborgesai](https://github.com/gabrielborgesai)
+- LinkedIn: [linkedin.com/in/gabrielborgesai](https://linkedin.com/in/gabriel-borges25/)
+- GitHub: [@gabrielborgesai](https://github.com/Runaway1457)
 
 ---
 
