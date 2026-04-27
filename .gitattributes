@@ -1,0 +1,20 @@
+# GitHub Linguist hints
+# https://github.com/github-linguist/linguist/blob/main/docs/overrides.md
+
+# Garantir que arquivos sejam detectados pelas extensões
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
+*.html linguist-language=HTML
+*.py linguist-language=Python
+*.md linguist-language=Markdown linguist-documentation
+
+# Tratar a documentação como documentação (não conta nos languages)
+docs/** linguist-documentation
+
+# Normalizar line endings
+* text=auto eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
